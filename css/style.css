@@ -291,11 +291,11 @@ img {
   display: flex;
   margin-bottom: 2rem;
   text-align: right;
-  gap: 2rem;
+  gap: 1rem;
 }
 
 .campo__label {
-  flex: 0 0 9rem;
+  flex: 0 0 4rem;
 }
 
 .campo__field {
